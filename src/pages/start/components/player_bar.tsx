@@ -8,7 +8,7 @@ interface PlayerProps
 
 const PlayerBar: React.FC<PlayerProps>=({index})=>{
     return (
-        <div className='w-screen flex flex-row absolute bottom-0 left-0 p-2 '>
+        <div className='bg-white w-screen flex flex-row absolute bottom-0 left-0 p-2 '>
             <div className="avatar">
                 <div className=" w-16 rounded-full">
                     <img src="https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg" />

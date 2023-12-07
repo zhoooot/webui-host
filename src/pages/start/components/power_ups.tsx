@@ -4,15 +4,15 @@ import Image from 'next/image';
 import GridItem from './power_up';
 
 // Import images from the public/images folder
-import Image0 from '/public/images/0.png';
-import Image1 from '/public/images/1.png';
-import Image2 from '/public/images/2.png';
-import Image3 from '/public/images/3.png';
-import Image4 from '/public/images/4.png';
-import Image5 from '/public/images/5.png';
-import Image6 from '/public/images/6.png';
-import Image7 from '/public/images/7.png';
-import Image8 from '/public/images/8.png';
+import Image0 from '/public/images/powerups/0.png';
+import Image1 from '/public/images/powerups/1.png';
+import Image2 from '/public/images/powerups/2.png';
+import Image3 from '/public/images/powerups/3.png';
+import Image4 from '/public/images/powerups/4.png';
+import Image5 from '/public/images/powerups/5.png';
+import Image6 from '/public/images/powerups/6.png';
+import Image7 from '/public/images/powerups/7.png';
+import Image8 from '/public/images/powerups/8.png';
 import PlayerBar from './player_bar';
 
 const Grid = () => {
